@@ -7,4 +7,4 @@ Me gustan las cosas nuevas.
 
 Más cosas.
 
-Estoy aprendiendo Git.
+Estoy aprendiendo Git y también vim.
