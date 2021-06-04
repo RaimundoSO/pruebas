@@ -3,4 +3,8 @@ Hola, me llamo Raimundo y esto es un texto plano que estoy editando en VIM. Espe
 
 Segunda línea
 
-Me gustan las cosas
+Me gustan las cosas nuevas.
+
+Más cosas.
+
+Estoy aprendiendo Git.
